@@ -10,7 +10,7 @@ Dokumentasi dan rekaman penjelasan source code dapat diakses pada link Google Dr
 ## Unduh Aplikasi (APK)
 
 File APK siap instal dapat diunduh langsung:
--  [Download app-debug.apk](release/GetarBMKG.apk)
+-  [Download GetarBMKG.apk](release/GetarBMKG.apk)
 
 ## Screenshot
 
