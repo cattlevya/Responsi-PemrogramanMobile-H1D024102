@@ -10,7 +10,7 @@ Dokumentasi dan rekaman penjelasan source code dapat diakses pada link Google Dr
 ## Unduh Aplikasi (APK)
 
 File APK siap instal dapat diunduh langsung:
--  [Download GetarBMKG.apk](release/GetarBMKG.apk)
+-  [Download GetarBMKG.apk]([release/GetarBMKG.apk](https://github.com/cattlevya/Responsi-PemrogramanMobile-H1D024102/releases/download/v1.0.0/GetarBMKG.apk))
 
 ## Screenshot
 
