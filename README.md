@@ -2,11 +2,16 @@
 
 Getar adalah aplikasi Android berbasis Jetpack Compose untuk menampilkan daftar gempa bumi berkekuatan M5.0 ke atas dari BMKG. Aplikasi ini dibuat sebagai tugas responsi mata kuliah Pemrograman Mobile semester 5.
 
+## Penjelasan Source Code
+
+Dokumentasi dan rekaman penjelasan source code dapat diakses pada link Google Drive berikut:
+- [Link Penjelasan Source Code (Google Drive)](https://drive.google.com/drive/folders/1XEmsxAgl8cvoBuaXqut8PYavD-enZzZf?usp=sharing)
+
 ## Screenshot
 
 | Home | Detail |
 |---|---|
-| ![Home](docs/screenshots/home.png) | ![Detail](docs/screenshots/detail.png) |
+| ![Home](docs/screenshots/home.jpg) | ![Detail](docs/screenshots/detail.jpg) |
 
 ## Fitur
 
